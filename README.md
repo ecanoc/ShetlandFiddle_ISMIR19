@@ -4,7 +4,7 @@ Supplementary material for the work on microtiming variations in Shetland fiddle
 # Abstract
 
 # Data set
-You can find complete list of the tunes included in the **Fiddle Corpus** as well as some additional information about the performers [here](http://github.com)
+You can find complete list of the tunes included in the **Fiddle Corpus** as well as some additional information about the performers [here](fiddleCorpus.md)
 
 
 # Reference
