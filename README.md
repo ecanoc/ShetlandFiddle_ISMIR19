@@ -1,7 +1,7 @@
 # Microtiming Analysis in Traditional Shetland Fiddle Music
 Supplementary material for the work on microtiming variations in Shetland fiddle music.
 
-# Goal
+# Abstract
 
 # Data set
 You can find complete list of the tunes included in the **Fiddle Corpus** as well as some additional information about the performers [here](http://github.com)
