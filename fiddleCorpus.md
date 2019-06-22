@@ -1,13 +1,13 @@
 # The Shetland Fiddle Corpus
 
 ## Willie Hunter - Whalsay
-1.
-2.
-3.
-4.
-5.
-6.
-7.
+1. [Aandowin at da Bow](http://www.tobarandualchais.co.uk/en/fullrecord/81352?backURL=/en/search%3Fpage%3D1%23track_81352) | 732987423
+2. Caald Nights o Winter
+3. Come Again Ye'r Welcome
+4. Da Aald Hill Grind
+5. Da Forfeit o da Ship
+6. Fram Upon Him
+7. Garster's Dream
 ## Bobby Peterson - Mainland
 8.
 9.
@@ -32,4 +32,3 @@
 25.
 26.
 27.
-
