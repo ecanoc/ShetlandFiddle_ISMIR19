@@ -1,6 +1,6 @@
 # The Shetland Fiddle Corpus
 All the files included in our corpus are accessible in the [Tobar an Dualchais](http://www.tobarandualchais.co.uk/en) platform.
-Due to copyright issues, we cannot directly share the audio data. Researchers interested in our corpus should directly contact Tobar an Dualchais. To facilitate access, the track IDs for all the tunes are provided. 
+Due to copyright issues, we cannot directly share the audio data. Researchers interested in our corpus should directly contact Tobar an Dualchais. To facilitate access, the track IDs for all the tunes are provided below. A csv file with all the corpus information can be found [here](./fiddleCourpus.csv) 
 
 ## Willie Hunter - Whalsay
 1. [Aandowin at da Bow](http://www.tobarandualchais.co.uk/en/fullrecord/81352?backURL=/en/search%3Fpage%3D1%23track_81352) | TrackID: 81352
