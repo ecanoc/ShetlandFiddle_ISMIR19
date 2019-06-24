@@ -1,5 +1,5 @@
 # The Shetland Fiddle Corpus
-All the files included in our corpus are accessible in the [Tobar an Dualhcais](http://www.tobarandualchais.co.uk/en) platform.
+All the files included in our corpus are accessible in the [Tobar an Dualchais](http://www.tobarandualchais.co.uk/en) platform.
 Due to copyright issues, we cannot directly share the audio data. Researchers interested in our corpus should directly contact Tobar an Dualchais. To facilitate access, the track IDs for all the tunes are provided. 
 
 ## Willie Hunter - Whalsay
@@ -20,41 +20,18 @@ Due to copyright issues, we cannot directly share the audio data. Researchers in
 14. [The Millers Hornpipe](http://www.tobarandualchais.co.uk/en/fullrecord/36647?backURL=/en/search%3Fpage%3D1%23track_36647) | TrackID: 36647
 15. [Willafjord](http://www.tobarandualchais.co.uk/en/fullrecord/36644?backURL=/en/search%3Fpage%3D1%23track_36644) | TrackID: 36644
 ## John Jamieson Irvine - Whalsay
-16. Auld Reel o Whalsay
+16. [Auld Reel o Whalsay](http://www.tobarandualchais.co.uk/en/fullrecord/91259?backURL=/en/search%3Fpage%3D2%23track_91259) | TrackID: 91259
 ## Robert Bairnson - Mainland 
-17. Da Burn o'Finnigirth
-18. Da Hill o'Finnigirth
-19. Mangaster Voe
-20. Oliver Jack
-21. The Headlands
-22. Willafjord
+17. [Da Burn o'Finnigirth](http://www.tobarandualchais.co.uk/en/fullrecord/50890?backURL=/en/search%3Fpage%3D1%23track_50890) | TrackID: 50890
+18. [Da Hill o'Finnigirth](http://www.tobarandualchais.co.uk/en/fullrecord/50890?backURL=/en/search%3Fpage%3D1%23track_50890) | TrackID: 50890
+19. [Mangaster Voe](http://www.tobarandualchais.co.uk/en/fullrecord/50888?backURL=/en/search%3Fpage%3D1%23track_50888) | TrackID: 50888
+20. [Oliver Jack](http://www.tobarandualchais.co.uk/en/fullrecord/50889?backURL=/en/search%3Fpage%3D1%23track_50889) | TrackID: 50899
+21. [The Headlands](http://www.tobarandualchais.co.uk/en/fullrecord/50888?backURL=/en/search%3Fpage%3D1%23track_50888) | TrackID: 50888
+22. [Willafjord](http://www.tobarandualchais.co.uk/en/fullrecord/50889?backURL=/en/search%3Fpage%3D1%23track_50889) | TrackID:50899
 ## Andrew Poleson - Whalsay
-23. Greigs Pipes
-24. Lady Mary Ramsay
-25. Supple Sandy 
-26. Unknown Reel
-27. Up da Stroods da Sailor Goes
+23. [Greigs Pipes](http://www.tobarandualchais.co.uk/en/fullrecord/96869?backURL=/en/search%3Fpage%3D1%23track_96869) | TrackID: 96869
+24. [Lady Mary Ramsay](http://www.tobarandualchais.co.uk/en/fullrecord/96896?backURL=/en/search%3Fpage%3D1%23track_96896) | TrackID: 96896
+25. [Supple Sandy](http://www.tobarandualchais.co.uk/en/fullrecord/100412?backURL=/en/search%3Fpage%3D1%23track_100412) | TrackID: 100412
+26. [Unknown Reel](http://www.tobarandualchais.co.uk/en/fullrecord/96861?backURL=/en/searchByPerson%3Fpersonid%3D5558%26name%3DAndrew%20Poleson%26page%3D4%23track_96861) | TrackID: 96861
+27. [Up da Stroods da Sailor Goes](http://www.tobarandualchais.co.uk/en/fullrecord/100411?backURL=/en/search%3Fpage%3D1%23track_100411) | TrackID: 100411
 
-\multirow{8}{*}{\parbox[t]{1.7cm}{Bobby\\ Peterson}} & \multirow{8}{*}{Mainland} & The Flowers of Edinburgh & 80293 \\
- && Clean Pease Strae & 36653  \\
- && Glen Grant & 36656  \\
- && Kebister Head & 80295 \\
- && MacDonald's Reel & 80294 \\
- && The Fishers Hornpipe & 36646 \\
- && The Millers Hornpipe & 36647\\
- && Willafjord & 36644\\
-\hline
-John Jamieson Irvine &\multirow{3}{*}{Whalsay}& \multirow{3}{*}{Auld Reel o Whalsay} & \multirow{3}{*}{91259}\\
- \hline
-\multirow{6}{*}{\parbox[t]{1.7cm}{Robert\\Bairnson}} &\multirow{6}{*}{Mainland}& Da Burn o'Finnigirth & 50890\\
- && Da Hill o'Finnigirth & 50890 \\
- && Mangaster Voe & 50888 \\
- && Oliver Jack & 50889\\
- && The Headlands & 50888\\
- && Willafjord & 50889\\
- \hline
-\multirow{5}{*}{\parbox[t]{1.7cm}{Andrew \\Poleson}} & \multirow{5}{*}{Whalsay} & Greigs Pipes & 96869  \\
- && Lady Mary Ramsay & 96896 \\
- && Supple Sandy & 100412  \\
- && Unknown Reel & 96863\\
- && Up da Stroods da Sailor Goes & 100411  \\
