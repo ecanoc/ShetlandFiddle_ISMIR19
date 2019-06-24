@@ -1,5 +1,5 @@
 # The Shetland Fiddle Corpus
-All the files included in our corpus are accessible in the [Tobar an Dualhcais collection](http://www.tobarandualchais.co.uk/en).
+All the files included in our corpus are accessible in the [Tobar an Dualhcais](http://www.tobarandualchais.co.uk/en) platform.
 Due to copyright issues, we cannot directly share the audio data. Researchers interested in our corpus should directly contact Tobar an Dualchais. To facilitate access, the track IDs for all the tunes are provided. 
 
 ## Willie Hunter - Whalsay
@@ -11,14 +11,14 @@ Due to copyright issues, we cannot directly share the audio data. Researchers in
 6. [Fram Upon Him](http://www.tobarandualchais.co.uk/en/fullrecord/81353?backURL=/en/search%3Fpage%3D1%23track_81353) | TrackID: 81353
 7. [Garster's Dream](http://www.tobarandualchais.co.uk/en/fullrecord/81354?backURL=/en/search%3Fpage%3D1%23track_81354) | TrackId: 81354
 ## Bobby Peterson - Mainland
-8. The Flowers of Edinburgh
-9. Clean Pease Strae
-10. Glen Grant
-11. Kebister Head
-12. MacDonald's Reel
-13. The Fishers Hornpipe
-14. The Millers Hornpipe
-15. Willafjord
+8. [The Flowers of Edinburgh](http://www.tobarandualchais.co.uk/en/fullrecord/80293?backURL=/en/search%3Fpage%3D1%23track_80293) | TrackID: 80293
+9. [Clean Pease Strae](http://www.tobarandualchais.co.uk/en/fullrecord/36653?backURL=/en/search%3Fpage%3D1%23track_36653) | TrackID: 36653 
+10. [Glen Grant](http://www.tobarandualchais.co.uk/en/fullrecord/36656?backURL=/en/search%3Fpage%3D1%23track_36656) | TrackID: 36656
+11. [Kebister Head](http://www.tobarandualchais.co.uk/en/fullrecord/80295?backURL=/en/search%3Fpage%3D1%23track_80295) | TrackID: 80295
+12. [MacDonald's Reel](http://www.tobarandualchais.co.uk/en/fullrecord/80294?backURL=/en/search%3Fpage%3D1%23track_80294) | TrackID: 80294
+13. [The Fishers Hornpipe](http://www.tobarandualchais.co.uk/en/fullrecord/36646?backURL=/en/search%3Fpage%3D1%23track_36646) | TrackID: 36646
+14. [The Millers Hornpipe](http://www.tobarandualchais.co.uk/en/fullrecord/36647?backURL=/en/search%3Fpage%3D1%23track_36647) | TrackID: 36647
+15. [Willafjord](http://www.tobarandualchais.co.uk/en/fullrecord/36644?backURL=/en/search%3Fpage%3D1%23track_36644) | TrackID: 36644
 ## John Jamieson Irvine - Whalsay
 16. Auld Reel o Whalsay
 ## Robert Bairnson - Mainland 
