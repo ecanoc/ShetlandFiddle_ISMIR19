@@ -32,6 +32,6 @@ Due to copyright issues, we cannot directly share the audio data. Researchers in
 23. [Greigs Pipes](http://www.tobarandualchais.co.uk/en/fullrecord/96869?backURL=/en/search%3Fpage%3D1%23track_96869) | TrackID: 96869
 24. [Lady Mary Ramsay](http://www.tobarandualchais.co.uk/en/fullrecord/96896?backURL=/en/search%3Fpage%3D1%23track_96896) | TrackID: 96896
 25. [Supple Sandy](http://www.tobarandualchais.co.uk/en/fullrecord/100412?backURL=/en/search%3Fpage%3D1%23track_100412) | TrackID: 100412
-26. [Unknown Reel](http://www.tobarandualchais.co.uk/en/fullrecord/96861?backURL=/en/searchByPerson%3Fpersonid%3D5558%26name%3DAndrew%20Poleson%26page%3D4%23track_96861) | TrackID: 96861
+26. [Unknown Reel](http://www.tobarandualchais.co.uk/en/fullrecord/96861?backURL=/en/search%3Fpage%3D1%23track_96861) | TrackID: 96861
 27. [Up da Stroods da Sailor Goes](http://www.tobarandualchais.co.uk/en/fullrecord/100411?backURL=/en/search%3Fpage%3D1%23track_100411) | TrackID: 100411
 
