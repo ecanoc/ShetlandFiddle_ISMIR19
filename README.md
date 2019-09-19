@@ -12,12 +12,13 @@ You can find complete list of the tunes included in the **Fiddle Corpus** as wel
 If you find this material useful, please cite our work as follows:
 
 ```
-@inproceedings{cano2019fiddle,  
-title={Microtiming analyisis in traditional Shetland Fiddle Music},  
-author={Cano, Estefan\\'{i}a, and Beveridge, Scott},  
-booktitle={ISMIR},  
-pages={577--584},  
-year={2019}}
+@inproceedings{Cano_ISMIR19,
+   Title = {{Microtiming analyisis in traditional Shetland Fiddle Music}},
+   Author = {Cano, Estefan\'{i}a and Beveridge, Scott},
+   Booktitle = {In Proceedings of the 20th Conference of the International Society for Music Information Retrieval ISMIR},
+   Month = {11},
+   Year = {2019},
+   Address = {Delft, The Netherlands}
+}
 ```
-
 
