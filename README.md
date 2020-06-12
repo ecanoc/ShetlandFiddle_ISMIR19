@@ -28,6 +28,5 @@ If you find this material useful, please cite our work as follows:
   doi          = {10.5281/zenodo.3527856},
   url          = {https://doi.org/10.5281/zenodo.3527856}
 }
-}
 ```
 
